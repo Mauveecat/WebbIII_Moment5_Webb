@@ -1,0 +1,26 @@
+body {
+    background-color: darkred;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: lightgrey;
+}
+
+h1 {
+    color: lightpink;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#container {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table,
+tr,
+td,
+th {
+    line-height: 20pt;
+    padding: 5pt;
+    border: solid;
+}
